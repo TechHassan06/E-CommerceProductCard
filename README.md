@@ -1,4 +1,3 @@
-https://techhassan06.github.io/E-CommerceProductCard/
 # 🛒 E-Commerce Product Card  
 
 A simple and responsive product card design for an e-commerce website. It displays the product image, name, description, price, and a "Buy Now" button with a clean UI.  
