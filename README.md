@@ -18,8 +18,3 @@ A simple and responsive product card design for an e-commerce website. It displa
 
 ## 📸 Screenshot  
  <img width="1361" height="768" alt="image" src="https://github.com/user-attachments/assets/1a69382b-0fcf-4054-b1ca-cdab3bf55d93" />
-
-
-
-   ```bash
-   git clone https://github.com/TechHassan06/E-CommerceProductCard.git
